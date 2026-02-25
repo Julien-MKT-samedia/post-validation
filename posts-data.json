@@ -337,5 +337,70 @@
         {"src": "images/Reveal-NORDBAT-2026-V1.jpg", "alt": "Reveal SHOXX WAVE XW17 — NORDBAT 2026"}
       ]
     }
-  ]
+  ],
+
+  "marketingPlan": {
+    "lastUpdated": "2026-02-25",
+    "note": "months = tableau de mois actifs (1=Jan … 12=Déc). Modifier ici pour mettre à jour le Gantt.",
+    "categories": [
+      {
+        "id": "lancements",
+        "label": "OP Lancements",
+        "color": "#FFE500",
+        "textColor": "#000",
+        "ops": [
+          {"name": "Lancement gamme abrasive",   "months": [2,3,4]},
+          {"name": "Lancement STIHL TSA 350",    "months": [2,3,4,5]},
+          {"name": "Lancement scie circulaire",  "months": [8]}
+        ]
+      },
+      {
+        "id": "thematiques",
+        "label": "OP Thématiques",
+        "color": "#60a5fa",
+        "textColor": "#fff",
+        "ops": [
+          {"name": "Fil rouge marque SMD",              "months": [1,2,3,4,5,6]},
+          {"name": "Fil rouge Shoxx (17 mm)",           "months": [1,2,3,4,5,6,7]},
+          {"name": "Promo FSA 400",                     "months": [2,3,4]},
+          {"name": "OP Toolbag",                        "months": [2,3,4]},
+          {"name": "Communication Master Silence",      "months": [7,8,9,10,11,12]},
+          {"name": "OP Resin Pad",                      "months": [8,9,10,11,12]},
+          {"name": "Journées techniques régionales",    "months": [4,5,6]},
+          {"name": "OP des Pros",                       "months": [1,2,7,8]},
+          {"name": "OP Stihl",                          "months": [1,2,10,11]},
+          {"name": "OP Immanquables chantier",          "months": [3,4,5,6,7,8]},
+          {"name": "OP Destockage",                     "months": [7,8]},
+          {"name": "OP entretien scies sur table",      "months": [1,2,11,12]}
+        ]
+      },
+      {
+        "id": "evenements",
+        "label": "OP Événements",
+        "color": "#a78bfa",
+        "textColor": "#fff",
+        "ops": [
+          {"name": "Coupe du Monde de Foot", "months": [5,6,7]},
+          {"name": "Octobre Rose",           "months": [10,11]},
+          {"name": "Croquez la Pomme",       "months": [11,12]},
+          {"name": "Hiverdiam's",            "months": [12]}
+        ]
+      },
+      {
+        "id": "salons",
+        "label": "Salons",
+        "color": "#34d399",
+        "textColor": "#000",
+        "ops": [
+          {"name": "Kiloutou — Lille",          "months": [1]},
+          {"name": "Tout Faire — Montpellier",  "months": [1,2]},
+          {"name": "Cofaq — Lyon",              "months": [1]},
+          {"name": "Samse — Chambery",          "months": [2]},
+          {"name": "Nordbat — Lille",           "months": [1]},
+          {"name": "DomPro — Tours",            "months": [4]},
+          {"name": "Ciffreo Bona — Nice",       "months": [5]}
+        ]
+      }
+    ]
+  }
 }
