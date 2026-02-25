@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "period": "Fév — Mars 2026",
+    "lastUpdated": "2026-02-25"
+  },
+  "campaigns": [
+    {
+      "id": "camp-sav",
+      "icon": "🔧",
+      "name": "SAV — Entretien Scie sur table",
+      "navName": "SAV — Entretien Scie",
+      "desc": "Remerciement clients • Pilier Proximité",
+      "navMeta": "1 post • Mer 25 fév.",
+      "navDotId": "nd-sav-scie-1",
+      "archive": false
+    },
+    {
+      "id": "camp-pdi",
+      "icon": "📰",
+      "name": "PDI × DMP Solution",
+      "navName": "PDI × DMP Solution",
+      "desc": "Article PDi Magazine • Carotage à sec • Pilier Proximité",
+      "navMeta": "Carrousel 3 slides • Jeu 26 fév.",
+      "navDotId": "nd-pdi-dmp-1",
+      "archive": false
+    },
+    {
+      "id": "camp-wave",
+      "icon": "🌊",
+      "name": "SHOXX WAVE XW17",
+      "navName": "SHOXX WAVE XW17",
+      "desc": "Disque diamant béton • Original SHOXX Technology • Pilier Performance",
+      "navMeta": "Carrousel 3 slides • Sam 28 fév.",
+      "navDotId": "nd-wave-xw17-1",
+      "archive": false
+    },
+    {
+      "id": "camp-toolbag",
+      "icon": "🎒",
+      "name": "Opération Toolbag 2026",
+      "navName": "Opération Toolbag",
+      "desc": "1 Toolbag offert pour achat d'un pack • 1er mars → 30 avr. 2026",
+      "count": "4 posts",
+      "navMeta": "4 posts • 3 → 10 mars",
+      "navDotId": "nd-toolbag-grp",
+      "groupDotId": "nd-toolbag-grp",
+      "groupPids": ["toolbag-1","toolbag-2","toolbag-3","toolbag-4"],
+      "archive": false
+    },
+    {
+      "id": "camp-chagas",
+      "icon": "🌍",
+      "name": "Formation CHAGAS × SAMEDIA",
+      "navName": "Formation CHAGAS",
+      "desc": "Nouvelle implantation Portugal • Formation équipes commerciales • Pilier Proximité",
+      "count": "Carrousel 5+1 slides",
+      "navMeta": "Carrousel 5+1 slides • Mer 4 mars",
+      "navDotId": "nd-formation-chagas-1",
+      "archive": false
+    },
+    {
+      "id": "camp-nordbat",
+      "icon": "🏠",
+      "name": "NORDBAT 2026 — Salon",
+      "navName": "NORDBAT 2026",
+      "desc": "Teasing & Reveal SHOXX WAVE XW17 • ✅ Déjà publiés • Pilier Proximité",
+      "count": "Archive • 2 posts",
+      "navMeta": "2 posts publiés • 6 & 11 fév.",
+      "navDotId": "nd-nordbat-grp",
+      "archive": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "sav-scie-1",
+      "campaign": "camp-sav",
+      "num": 1,
+      "title": "Remerciement SAV — 10 scies sur table",
+      "subtitle": "SAV / Entretien • Les Herbiers",
+      "type": "img",
+      "pilier": "prox",
+      "pilierBadge": "PROXIMITÉ",
+      "proposedDate": "2026-02-25",
+      "published": false,
+      "language": "FR",
+      "caption": "Entretenir aujourd'hui, performer demain. C'est ça, SAMEDIA. ✅\n\nCette année, 10 scies sur table ont retrouvé leurs performances optimales grâce à votre confiance.\n\nUn entretien régulier de votre scie sur table, c'est :\n✔ Des coupes plus précises, du premier au dernier millimètre\n✔ Une durée de vie prolongée de votre investissement\n✔ Moins d'arrêts imprévus sur chantier\n\nNotre équipe SAV prend en charge le diagnostic, l'entretien et la remise en état de vos machines diamantées SAMEDIA.\n\nFaites confiance au SAV SAMEDIA. Contactez votre commercial dès aujourd'hui 👇",
+      "hashtags": ["#SAV","#EntretienMachine","#SAMEDIA","#ScieSurTable","#BTP","#OutilsDiamantés","#JFCGroup"],
+      "cta": "Contacter notre SAV",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
+        {"text": "Date à modifier", "label": "📅 Date"},
+        {"text": "Caption trop long", "label": "Trop long"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/Entretien-scie-MERCI-2026.jpg", "alt": "SAV Entretien Scie sur table"}
+      ]
+    },
+    {
+      "id": "pdi-dmp-1",
+      "campaign": "camp-pdi",
+      "num": 2,
+      "title": "SAMEDIA dans PDi — DMP Dry Drilling Solution",
+      "subtitle": "Article international • pdworld.com",
+      "type": "car",
+      "pilier": "prox",
+      "pilierBadge": "PROXIMITÉ",
+      "proposedDate": "2026-02-26",
+      "published": false,
+      "language": "FR",
+      "caption": "SAMEDIA dans les colonnes de Professional Demolition International (PDi). 📰\n\nNotre système DMP de carotage à sec est reconnu à l'international — et pour cause.\n\n→ Slide 1 : Performance maximale sur béton armé. Un système complet pour un carotage sec, propre et rapide sur tous vos chantiers. Save time on every jobsite.\n\n→ Slide 2 : DMP 500 (2,2 kW, jusqu'à Ø250 mm) & DMP 800 (3,0 kW, jusqu'à Ø300 mm). En main ou sur potence, humide ou sec. Faster, Cleaner, Safer.\n\n→ Slide 3 : Moins d'équipement à transporter, extraction de poussière intégrée, chantiers intérieurs & extérieurs. Plus rapide. Plus propre. Plus sûr.\n\nLisez l'article complet sur pdworld.com 👇",
+      "hashtags": ["#SAMEDIA","#DMP","#Carotage","#BétonArmé","#DryDrilling","#PDi","#ProfessionalDemolition","#JFCGroup"],
+      "cta": "Lire l'article sur pdworld.com",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "Slide 1 à corriger", "label": "🔄 Slide 1"},
+        {"text": "Slide 2 à corriger", "label": "🔄 Slide 2"},
+        {"text": "Lien à vérifier", "label": "🔗 Lien"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/PDIxDMP-slide1-RS-2026.jpg", "alt": "DMP Solution — Slide 1"},
+        {"src": "images/PDIxDMP-slide2-RS-2026.jpg", "alt": "DMP 500 & 800 — Slide 2"},
+        {"src": "images/PDIxDMP-slide3-RS-2026.jpg", "alt": "DMP Avantages — Slide 3"}
+      ]
+    },
+    {
+      "id": "wave-xw17-1",
+      "campaign": "camp-wave",
+      "num": 3,
+      "title": "SHOXX WAVE XW17 — La vague de puissance",
+      "subtitle": "-25% vibrations • -5 dB • Agressivité 9,5/10",
+      "type": "car",
+      "pilier": "perf",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-02-28",
+      "published": false,
+      "language": "FR",
+      "caption": "La vague de puissance déferle sur vos chantiers. Voici le SHOXX WAVE XW17. 🌊\n\nBéton, béton armé, maçonnerie universelle — un seul disque pour tout dominer.\n\n→ Slide 1 : −25% de vibrations, −5 dB de bruit. La technologie WAVE SHOXX repousse les limites de la découpe diamantée.\n\n→ Slide 2 : La forme unique de ses segments : refroidissement naturel optimisé, évacuation rapide de la matière, coupe agressive et fluide.\n\n→ Slide 3 : Les scores parlent d'eux-mêmes. Vitesse : 9/10. Longévité : 9/10. Agressivité : 9,5/10. Original SHOXX Technology.\n\nUn outil haut de gamme pour les pros qui n'acceptent aucun compromis. 💪\n\nDécouvrez la technologie WAVE 👇",
+      "hashtags": ["#SHOXX","#WaveXW17","#SAMEDIA","#DisqueDiamant","#BétonArmé","#PerformancePro","#Maçonnerie","#JFCGroup"],
+      "cta": "Découvrir la technologie WAVE",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "Chiffres à valider", "label": "📊 Chiffres"},
+        {"text": "Slide 3 à corriger", "label": "🔄 Slide 3"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/WAVE-avantages-2026.jpg", "alt": "WAVE XW17 Présentation"},
+        {"src": "images/WAVE-avantages2-2026.jpg", "alt": "WAVE XW17 Segmentation"},
+        {"src": "images/WAVE-avantages3-2026.jpg", "alt": "WAVE XW17 Scores"}
+      ]
+    },
+    {
+      "id": "toolbag-1",
+      "campaign": "camp-toolbag",
+      "num": 4,
+      "title": "Toolbag offert — Accroche générale",
+      "subtitle": "Présentation de l'offre • 3 packs au choix",
+      "type": "img",
+      "pilier": "fab",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-03-03",
+      "published": false,
+      "language": "FR",
+      "caption": "Tout votre outillage à portée de main — et un Toolbag SAMEDIA offert ! 🎒\n\nDu 1er mars au 30 avril 2026, pour l'achat au choix de :\n• 1 Pack Maçon / Paysagiste\n• 1 Pack Surfaçage\n• 1 Pack Carreleur / Paysagiste\n\n→ 1 Toolbag SAMEDIA OFFERT\n\nRésistant, pratique, aux couleurs SAMEDIA : le compagnon idéal sur vos chantiers.\n\nContactez votre revendeur SAMEDIA ou demandez un devis à votre commercial.\n\n⚠️ Offre valable jusqu'au 30 avril 2026, dans la limite des stocks disponibles.",
+      "hashtags": ["#Toolbag","#OffreCommerciale","#SAMEDIA","#BTP","#PromoChantier","#OutilsDiamantés","#JFCGroup"],
+      "cta": "Demander un devis",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "Conditions à vérifier", "label": "📄 Conditions"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/toolbag-RS-2026.jpg", "alt": "Toolbag Offert — Accroche générale"}
+      ]
+    },
+    {
+      "id": "toolbag-2",
+      "campaign": "camp-toolbag",
+      "num": 5,
+      "title": "Pack Surfaçage + Toolbag offert",
+      "subtitle": "Surfaceuse CGR 500 • 5 SHOXX PL ZU5 Ø125",
+      "type": "img",
+      "pilier": "fab",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-03-05",
+      "published": false,
+      "language": "FR",
+      "caption": "Surface parfaite. Outillage complet. Toolbag SAMEDIA offert. ✨\n\nLe Pack Surfaçage SAMEDIA regroupe tout ce qu'il faut pour les travaux de surfacement sur béton :\n\n🔴 1 Surfaceuse CGR 500\n🔴 5 disques SHOXX PL ZU5 Ø125\n\n… et en prime : 1 Toolbag SAMEDIA offert !\n\nAchetez votre pack, équipez votre chantier — et rangez votre outillage avec la qualité SAMEDIA.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
+      "hashtags": ["#PackSurfaçage","#SAMEDIA","#SHOXX","#Surfaceuse","#Toolbag","#Béton","#JFCGroup"],
+      "cta": "Demander un devis",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/Toolbag-RS2-2026.jpg", "alt": "Pack Surfaçage + Toolbag"}
+      ]
+    },
+    {
+      "id": "toolbag-3",
+      "campaign": "camp-toolbag",
+      "num": 6,
+      "title": "Pack Maçon / Paysagiste + Toolbag offert",
+      "subtitle": "SHOXX WAVE WX17 • TECHNIC DIAM FIRT • TECHNIC PLT10",
+      "type": "img",
+      "pilier": "fab",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-03-07",
+      "published": false,
+      "language": "FR",
+      "caption": "Le pack du maçon. Le pack du paysagiste. Le pack des pros qui n'acceptent aucun compromis. 💪\n\nLe Pack Maçon / Paysagiste SAMEDIA réunit l'essentiel pour performer au quotidien :\n\n🔴 1 disque SHOXX WAVE WX17 Ø230 (champion du béton armé)\n🔴 2 disques TECHNIC DIAM FIRT BV10 Ø125\n🔴 1 disque TECHNIC PLT10 Ø125\n\n… et bien sûr : 1 Toolbag SAMEDIA offert en prime !\n\nBéton, maçonnerie, meulage, finition — tout y est pour prendre le bon départ sur chantier.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
+      "hashtags": ["#PackMaçon","#SAMEDIA","#SHOXX","#WAVE","#Toolbag","#Maçonnerie","#Paysagiste","#JFCGroup"],
+      "cta": "Demander un devis",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/Toolbag-RS3-2026.jpg", "alt": "Pack Maçon Paysagiste + Toolbag"}
+      ]
+    },
+    {
+      "id": "toolbag-4",
+      "campaign": "camp-toolbag",
+      "num": 7,
+      "title": "Pack Carreleur / Paysagiste + Toolbag offert",
+      "subtitle": "MASTER UF • MASTER PCW • MASTER FINISH PRO",
+      "type": "img",
+      "pilier": "fab",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-03-10",
+      "published": false,
+      "language": "FR",
+      "caption": "De la découpe à la finition — tout est dans le pack. 🎯\n\nLe Pack Carreleur / Paysagiste SAMEDIA, c'est une sélection complète pour les finitions haut de gamme :\n\n🔴 5 MASTER UF Ø125\n🔴 1 TECHNIC PLT10 Ø125\n🔴 1 MASTER PCW\n🔴 1 MASTER FINISH PRO (Grain 120 ou Grain 200)\n\n… et 1 Toolbag SAMEDIA offert !\n\nCarrelage, grès cérame, pierre naturelle — finissez chaque chantier avec la précision SAMEDIA.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
+      "hashtags": ["#PackCarreleur","#SAMEDIA","#MASTER","#Toolbag","#Carrelage","#Finition","#BTP","#JFCGroup"],
+      "cta": "Demander un devis",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
+        {"text": "Grain à préciser", "label": "Grain"},
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/Toolbag-RS4-2026.jpg", "alt": "Pack Carreleur Paysagiste + Toolbag"}
+      ]
+    },
+    {
+      "id": "formation-chagas-1",
+      "campaign": "camp-chagas",
+      "num": 10,
+      "title": "Formation CHAGAS × SAMEDIA — Portugal 2026",
+      "subtitle": "LinkedIn Global (EN) • Février 2026",
+      "type": "car",
+      "pilier": "prox",
+      "pilierBadge": "PROXIMITÉ",
+      "proposedDate": "2026-03-04",
+      "published": false,
+      "language": "EN",
+      "caption": "// PORTUGAL. TRAINING. PROXIMITY.\n\nIn February 2026, our SAMEDIA experts traveled to our new partner CHAGAS to train their sales teams on the full SAMEDIA range.\n\n→ SHOXX | MASTER | TECHNIC — full product knowledge\n→ Technical arguments & job site application advice\n→ Sales coaching & hands-on practice\n\nBecause PROXIMITY isn't a buzzword.\nIt's showing up. A full day on site. A team that leaves stronger.\n\nThank you CHAGAS for the warm welcome and commitment.",
+      "hashtags": ["#SAMEDIA","#Training","#DiamondTools","#Portugal","#Construction","#JFCDiamondTools","#Distributor"],
+      "cta": "LinkedIn Global (EN)",
+      "ctaLabel": "Page LinkedIn",
+      "qtags": [
+        {"text": "Caption à revoir", "label": "✏️ Caption"},
+        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
+        {"text": "Date à modifier", "label": "📅 Date"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/CHAGASxSAMEDIA-Slide1.jpg", "alt": "COVER — PROXIMITY. IN ACTION."},
+        {"src": "images/CHAGASxSAMEDIA-Slide2.jpg", "alt": "CHAGAS. PORTUGAL. — Nouvelle implantation"},
+        {"src": "images/CHAGASxSAMEDIA-Slide3.jpg", "alt": "ONE DAY. THE FULL RANGE."},
+        {"src": "images/CHAGASxSAMEDIA-Slide4.jpg", "alt": "EXPERTISE IS SHARED."},
+        {"src": "images/CHAGASxSAMEDIA-Slide5.jpg", "alt": "THIS IS PARTNERSHIP."},
+        {"src": "images/CHAGASxSAMEDIA-Slide6.jpg", "alt": "PARTNER. TRAINER. BY YOUR SIDE."}
+      ]
+    },
+    {
+      "id": "nordbat-1",
+      "campaign": "camp-nordbat",
+      "num": 8,
+      "title": "Teaser NORDBAT 2026 — La nouveauté arrive",
+      "subtitle": "Teasing produit • Stand P24 • Lille Grand Palais",
+      "type": "img",
+      "pilier": "prox",
+      "pilierBadge": "PROXIMITÉ",
+      "proposedDate": "2026-02-06",
+      "published": true,
+      "language": "FR",
+      "caption": "La performance a changé de forme. 🔍\n\nVous savez que SAMEDIA repousse toujours les limites — mais cette fois, on vous donne un indice.\n\nUne nouveauté 2026 est en route. Vous la découvrirez en avant-première… saurez-vous deviner ?\n\n📅 Rendez-vous Stand P24\nSalon NORDBAT 2026\nDu 11 au 13 février — Lille Grand Palais 🏠",
+      "hashtags": ["#SAMEDIA","#NORDBAT2026","#Salon","#BTP","#Nouveauté2026","#JFCGroup","#LilleGrandPalais"],
+      "cta": "Stand P24 — Salon NORDBAT",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Caption à mettre à jour", "label": "✏️ Caption"},
+        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
+        {"text": "Archive validée", "label": "✔ Archive OK"}
+      ],
+      "slides": [
+        {"src": "images/Teaser-NORDBAT-2026-V1.jpg", "alt": "Teaser NORDBAT 2026 — Nouveauté SAMEDIA"}
+      ]
+    },
+    {
+      "id": "nordbat-2",
+      "campaign": "camp-nordbat",
+      "num": 9,
+      "title": "Reveal NORDBAT 2026 — SHOXX WAVE XW17",
+      "subtitle": "Révélation produit • Stand P24 • Salon NORDBAT Lille",
+      "type": "img",
+      "pilier": "prox",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-02-11",
+      "published": true,
+      "language": "FR",
+      "caption": "La réponse était là. 🌊\n\nSHOXX WAVE XW17 — La performance a changé de forme.\n\nBéton. Béton armé. Maçonnerie universelle.\nUn seul disque. Toutes les applications.\n\nMaximum d'agressivité. Minimum de vibrations.\nOriginal SHOXX Technology by SAMEDIA.\n\nRetrouvez-le en exclusivité sur notre Stand P24\nSalon NORDBAT 2026 — 11 au 13 février — Lille 🏠",
+      "hashtags": ["#SHOXX","#WaveXW17","#SAMEDIA","#NORDBAT2026","#Salon","#Nouveauté","#BTP","#DisqueDiamant","#JFCGroup"],
+      "cta": "Découvrir le SHOXX WAVE XW17",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Caption à mettre à jour", "label": "✏️ Caption"},
+        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
+        {"text": "Archive validée", "label": "✔ Archive OK"}
+      ],
+      "slides": [
+        {"src": "images/Reveal-NORDBAT-2026-V1.jpg", "alt": "Reveal SHOXX WAVE XW17 — NORDBAT 2026"}
+      ]
+    }
+  ]
+}
