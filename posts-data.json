@@ -59,6 +59,16 @@
       "archive": false
     },
     {
+      "id": "camp-fsa400",
+      "icon": "⚡",
+      "name": "Promo FSA 400 — Scie à Sol",
+      "navName": "Promo FSA 400",
+      "desc": "Lot Scie + Disque TECHNIC inclus • Mars–Avril 2026 • Pilier Performance",
+      "navMeta": "Carrousel 2 slides • Jeu 12 mars",
+      "navDotId": "nd-fsa400-1",
+      "archive": false
+    },
+    {
       "id": "camp-nordbat",
       "icon": "🏠",
       "name": "NORDBAT 2026 — Salon",
@@ -285,6 +295,34 @@
         {"src": "images/CHAGASxSAMEDIA-Slide4.jpg", "alt": "EXPERTISE IS SHARED."},
         {"src": "images/CHAGASxSAMEDIA-Slide5.jpg", "alt": "THIS IS PARTNERSHIP."},
         {"src": "images/CHAGASxSAMEDIA-Slide6.jpg", "alt": "PARTNER. TRAINER. BY YOUR SIDE."}
+      ]
+    },
+    {
+      "id": "fsa400-promo-1",
+      "campaign": "camp-fsa400",
+      "num": 11,
+      "title": "Offre Spéciale FSA 400 — Scie à Sol + Disque TECHNIC inclus",
+      "subtitle": "Promo Mars–Avril 2026 • 2 lots disponibles",
+      "type": "car",
+      "pilier": "perf",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-03-12",
+      "published": false,
+      "language": "FR",
+      "caption": "La FSA 400 entre en chantier. Avec son disque. ⚡\n\nJusqu'au 30 avril 2026, la SCIE À SOL FSA 400 est disponible en lot avec un disque diamanté TECHNIC Ø400 inclus — en promotion.\n\nDeux configurations pour couvrir tous vos chantiers :\n\n⚫ Lot Asphalte/Enrobé — FSA 400 + TECHNIC TP-A Ø400\n   (réf. 925128/001) — Asphalte · Enrobé · Enrobé bitumeux\n\n⚫ Lot Béton/Matériaux — FSA 400 + TECHNIC DIAM FIRST BV10 Ø400\n   (réf. 925127/001) — Béton · Matériaux de construction\n\nUne machine robuste, un disque adapté à votre application — une offre taillée pour les pros du BTP.\n\nDans la limite des stocks disponibles.\n\n→ Renseignez-vous auprès de votre distributeur SAMEDIA ou contactez notre équipe commerciale.",
+      "hashtags": ["#SAMEDIA","#FSA400","#ScieASol","#OffreSpéciale","#BTP","#Asphalte","#Béton","#DiamondTools","#JFCGroup"],
+      "cta": "Contacter votre distributeur SAMEDIA",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir",      "label": "✏️ Texte"},
+        {"text": "Visuel OK",           "label": "🖼 Visuel OK"},
+        {"text": "Date à modifier",     "label": "📅 Date"},
+        {"text": "Conditions à vérifier","label": "📄 Conditions"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/FSA400-OP-slide1-2026.jpg", "alt": "Scie à Sol FSA 400 — Offre Spéciale Mars–Avril 2026"},
+        {"src": "images/FSA400-OP-slide2-2026.jpg", "alt": "FSA 400 — 2 lots : Asphalte/Enrobé et Béton/Matériaux"}
       ]
     },
     {
