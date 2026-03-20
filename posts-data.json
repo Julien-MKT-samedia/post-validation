@@ -98,9 +98,12 @@
       "icon": "⚙️",
       "name": "Lancement Gamme Abrasifs 2026",
       "navName": "Gamme Abrasifs",
-      "desc": "Teasing lancement • MASTER FIBRE TKE / TKM / SMT PL • Pilier Performance",
-      "navMeta": "Carrousel 2 slides • Jeu 26 mars",
-      "navDotId": "nd-abrasifs-1",
+      "desc": "Teaser + Reveal • MASTER FIBRE TKE / TKM / SMT PL • Pilier Performance",
+      "count": "2 carrousels",
+      "navMeta": "2 carrousels • 26 mars & 3 avr.",
+      "navDotId": "nd-abrasifs-grp",
+      "groupDotId": "nd-abrasifs-grp",
+      "groupPids": ["abrasifs-teaser-1","abrasifs-reveal-1"],
       "archive": false
     },
     {
@@ -508,6 +511,37 @@
       "slides": [
         {"src": "images/abrasifs2026-RS-teaser1-lancement.jpg", "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond noir"},
         {"src": "images/abrasifs2026-RS-teaser2-lancement.jpg", "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond jaune"}
+      ]
+    },
+    {
+      "id": "abrasifs-reveal-1",
+      "campaign": "camp-abrasifs",
+      "opMapping": "Lancement gamme abrasive",
+      "num": 17,
+      "title": "Reveal — Nouvelle Gamme Abrasifs SAMEDIA",
+      "subtitle": "MASTER FIBRE TKE • TKM • SMT PL Lamelles • Avril 2026",
+      "type": "car",
+      "pilier": "perf",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-04-03",
+      "published": false,
+      "language": "FR",
+      "caption": "L'attente est terminée. Voici la nouvelle gamme abrasive SAMEDIA. ⚙️\n\n3 familles de produits conçues pour les pros du métal, de l'inox et de la chaudronnerie.\n\n\n🔴 MASTER FIBRE TKE — Acier / Inox\n\nCoupe nette, silencieuse, très faible émission d'étincelles. Compatible meuleuses sur batterie. Sans fer ni soufre : zéro contamination sur inox. 🔥\n\n\n🟡 MASTER FIBRE TKM — Métal Universel\n\nLe meilleur rapport qualité-prix pour le tronçonnage métal. Polyvalent, rapide, rentable — de l'acier de construction à la tuyauterie industrielle. 💪\n\n\n⚫ MASTER SMT PL — Disques à Lamelles\n\nZirconium. Conception conique 10° pour un meulage ergonomique et sans effort. Sans fer ni soufre : idéal pour l'inox et l'acier allié. ✨\n\n\n🔗 Découvrez les fiches produits complètes, les applications détaillées et les conditionnements sur samedia.com\n\n📞 Vous voulez tester la gamme ? Contactez votre commercial SAMEDIA dès maintenant 👇",
+      "hashtags": ["#SAMEDIA","#NouvelleGamme","#Abrasifs","#MASTERFibre","#TKE","#TKM","#SMTPL","#Métal","#Inox","#BTP","#JFCGroup"],
+      "cta": "Contactez votre commercial SAMEDIA",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {"text": "Texte à revoir", "label": "✏️ Texte"},
+        {"text": "Visuel TKE OK", "label": "🖼 TKE"},
+        {"text": "Visuel TKM OK", "label": "🖼 TKM"},
+        {"text": "Visuel SMT OK", "label": "🖼 SMT"},
+        {"text": "Date à modifier", "label": "📅 Date"},
+        {"text": "OK pour publication", "label": "✔ OK pub"}
+      ],
+      "slides": [
+        {"src": "images/abrasifs2026-RS-reveal1-master-TKE.jpg", "alt": "Reveal MASTER FIBRE TKE — Acier / Inox"},
+        {"src": "images/abrasifs2026-RS-reveal1-master-TKM.jpg", "alt": "Reveal MASTER FIBRE TKM — Métal Universel"},
+        {"src": "images/abrasifs2026-RS-reveal1-master-SMT.jpg", "alt": "Reveal MASTER SMT PL — Disques à Lamelles"}
       ]
     },
     {
