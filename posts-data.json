@@ -1,7 +1,7 @@
 {
   "meta": {
-    "period": "Fév — Avr. 2026",
-    "lastUpdated": "2026-03-05"
+    "period": "Fév — Mai 2026",
+    "lastUpdated": "2026-03-30"
   },
   "campaigns": [
     {
@@ -44,7 +44,12 @@
       "navMeta": "4 posts • 3 → 10 mars",
       "navDotId": "nd-toolbag-grp",
       "groupDotId": "nd-toolbag-grp",
-      "groupPids": ["toolbag-1","toolbag-2","toolbag-3","toolbag-4"],
+      "groupPids": [
+        "toolbag-1",
+        "toolbag-2",
+        "toolbag-3",
+        "toolbag-4"
+      ],
       "archive": false
     },
     {
@@ -57,7 +62,10 @@
       "navMeta": "2 carrousels • 4 & 11 mars",
       "navDotId": "nd-formation-chagas-grp",
       "groupDotId": "nd-formation-chagas-grp",
-      "groupPids": ["formation-chagas-1","formation-chagas-2"],
+      "groupPids": [
+        "formation-chagas-1",
+        "formation-chagas-2"
+      ],
       "archive": false
     },
     {
@@ -80,7 +88,10 @@
       "navMeta": "2 posts • 6 & 13 mars",
       "navDotId": "nd-6nations-grp",
       "groupDotId": "nd-6nations-grp",
-      "groupPids": ["6nations-france-ecosse-1","6nations-france-angleterre-1"],
+      "groupPids": [
+        "6nations-france-ecosse-1",
+        "6nations-france-angleterre-1"
+      ],
       "archive": false
     },
     {
@@ -100,10 +111,13 @@
       "navName": "Gamme Abrasifs",
       "desc": "Teaser + Reveal • MASTER FIBRE TKE / TKM / SMT PL • Pilier Performance",
       "count": "2 carrousels",
-      "navMeta": "2 carrousels • 26 mars & 3 avr.",
+      "navMeta": "2 posts • 26 mars & 7 avr.",
       "navDotId": "nd-abrasifs-grp",
       "groupDotId": "nd-abrasifs-grp",
-      "groupPids": ["abrasifs-teaser-1","abrasifs-reveal-1"],
+      "groupPids": [
+        "abrasifs-teaser-1",
+        "abrasifs-reveal-1"
+      ],
       "archive": false
     },
     {
@@ -116,6 +130,26 @@
       "navMeta": "2 posts publiés • 6 & 11 fév.",
       "navDotId": "nd-nordbat-grp",
       "archive": true
+    },
+    {
+      "id": "camp-csw-destockage",
+      "icon": "🔴",
+      "name": "Opération Déstockage MASTER CSW",
+      "navName": "Déstockage MASTER CSW",
+      "desc": "Disques matériaux durs • -40% • Pilier Performance",
+      "navMeta": "Carrousel 2 slides • Mer 1 avr.",
+      "navDotId": "nd-csw-destockage-1",
+      "archive": false
+    },
+    {
+      "id": "camp-diamant-destockage",
+      "icon": "🟡",
+      "name": "Opération Déstockage Diamant",
+      "navName": "Déstockage Diamant",
+      "desc": "TP BV • S-Béton • SHOXX X13 • Stocks limités",
+      "navMeta": "Carrousel 3 slides • Jeu 2 avr.",
+      "navDotId": "nd-diamant-destockage-1",
+      "archive": false
     }
   ],
   "posts": [
@@ -133,18 +167,44 @@
       "published": false,
       "language": "FR",
       "caption": "Entretenir aujourd'hui, performer demain. C'est ça, SAMEDIA. ✅\n\nCette année, 10 scies sur table ont retrouvé leurs performances optimales grâce à votre confiance.\n\nUn entretien régulier de votre scie sur table, c'est :\n✔ Des coupes plus précises, du premier au dernier millimètre\n✔ Une durée de vie prolongée de votre investissement\n✔ Moins d'arrêts imprévus sur chantier\n\nNotre équipe SAV prend en charge le diagnostic, l'entretien et la remise en état de vos machines diamantées SAMEDIA.\n\nFaites confiance au SAV SAMEDIA. Contactez votre commercial dès aujourd'hui 👇",
-      "hashtags": ["#SAV","#EntretienMachine","#SAMEDIA","#ScieSurTable","#BTP","#OutilsDiamantés","#JFCGroup"],
+      "hashtags": [
+        "#SAV",
+        "#EntretienMachine",
+        "#SAMEDIA",
+        "#ScieSurTable",
+        "#BTP",
+        "#OutilsDiamantés",
+        "#JFCGroup"
+      ],
       "cta": "Contacter notre SAV",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "Caption trop long", "label": "Trop long"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "Caption trop long",
+          "label": "Trop long"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/Entretien-scie-MERCI-2026.jpg", "alt": "SAV Entretien Scie sur table"}
+        {
+          "src": "images/Entretien-scie-MERCI-2026.jpg",
+          "alt": "SAV Entretien Scie sur table"
+        }
       ]
     },
     {
@@ -161,20 +221,53 @@
       "published": false,
       "language": "FR",
       "caption": "SAMEDIA dans les colonnes de Professional Demolition International (PDi). 📰\n\nNotre système DMP de carotage à sec est reconnu à l'international — et pour cause.\n\n→ Slide 1 : Performance maximale sur béton armé. Un système complet pour un carotage sec, propre et rapide sur tous vos chantiers. Save time on every jobsite.\n\n→ Slide 2 : DMP 500 (2,2 kW, jusqu'à Ø250 mm) & DMP 800 (3,0 kW, jusqu'à Ø300 mm). A main et sur bâti, humide ou sec. Faster, Cleaner, Safer.\n\n→ Slide 3 : Moins d'équipement à transporter, extraction de poussière intégrée, chantiers intérieurs & extérieurs. Plus rapide. Plus propre. Plus sûr.\n\nLisez l'article complet sur pdworld.com 👇",
-      "hashtags": ["#SAMEDIA","#DMP","#Carotage","#BétonArmé","#DryDrilling","#PDi","#ProfessionalDemolition","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#DMP",
+        "#Carotage",
+        "#BétonArmé",
+        "#DryDrilling",
+        "#PDi",
+        "#ProfessionalDemolition",
+        "#JFCGroup"
+      ],
       "cta": "Lire l'article sur pdworld.com",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Slide 1 à corriger", "label": "🔄 Slide 1"},
-        {"text": "Slide 2 à corriger", "label": "🔄 Slide 2"},
-        {"text": "Lien à vérifier", "label": "🔗 Lien"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Slide 1 à corriger",
+          "label": "🔄 Slide 1"
+        },
+        {
+          "text": "Slide 2 à corriger",
+          "label": "🔄 Slide 2"
+        },
+        {
+          "text": "Lien à vérifier",
+          "label": "🔗 Lien"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/PDIxDMP-slide1-RS-2026.jpg", "alt": "DMP Solution — Slide 1"},
-        {"src": "images/PDIxDMP-slide2-RS-2026.jpg", "alt": "DMP 500 & 800 — Slide 2"},
-        {"src": "images/PDIxDMP-slide3-RS-2026.jpg", "alt": "DMP Avantages — Slide 3"}
+        {
+          "src": "images/PDIxDMP-slide1-RS-2026.jpg",
+          "alt": "DMP Solution — Slide 1"
+        },
+        {
+          "src": "images/PDIxDMP-slide2-RS-2026.jpg",
+          "alt": "DMP 500 & 800 — Slide 2"
+        },
+        {
+          "src": "images/PDIxDMP-slide3-RS-2026.jpg",
+          "alt": "DMP Avantages — Slide 3"
+        }
       ]
     },
     {
@@ -191,19 +284,49 @@
       "published": false,
       "language": "FR",
       "caption": "La vague de puissance déferle sur vos chantiers. Voici le SHOXX WAVE XW17. 🌊\n\nBéton, béton armé, maçonnerie universelle — un seul disque pour tout dominer.\n\n→ Slide 1 : −25% de vibrations, −5 dB de bruit. La technologie WAVE SHOXX repousse les limites de la découpe diamantée.\n\n→ Slide 2 : La forme unique de ses segments : refroidissement naturel optimisé, évacuation rapide de la matière, coupe agressive et fluide, performance de coupe dans les bétons armés.\n\n→ Slide 3 : Les scores parlent d'eux-mêmes. Vitesse : 9/10. Longévité : 9/10. Agressivité : 9,5/10. Original SHOXX Technology.\n\nUn outil haut de gamme pour les pros qui n'acceptent aucun compromis. 💪\n\nDécouvrez la technologie WAVE 👇",
-      "hashtags": ["#SHOXX","#WaveXW17","#SAMEDIA","#DisqueDiamant","#BétonArmé","#PerformancePro","#Maçonnerie","#JFCGroup"],
+      "hashtags": [
+        "#SHOXX",
+        "#WaveXW17",
+        "#SAMEDIA",
+        "#DisqueDiamant",
+        "#BétonArmé",
+        "#PerformancePro",
+        "#Maçonnerie",
+        "#JFCGroup"
+      ],
       "cta": "Découvrir la technologie WAVE",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Chiffres à valider", "label": "📊 Chiffres"},
-        {"text": "Slide 3 à corriger", "label": "🔄 Slide 3"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Chiffres à valider",
+          "label": "📊 Chiffres"
+        },
+        {
+          "text": "Slide 3 à corriger",
+          "label": "🔄 Slide 3"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/WAVE-avantages-2026.jpg", "alt": "WAVE XW17 Présentation"},
-        {"src": "images/WAVE-avantages2-2026.jpg", "alt": "WAVE XW17 Segmentation"},
-        {"src": "images/WAVE-avantages3-2026.jpg", "alt": "WAVE XW17 Scores"}
+        {
+          "src": "images/WAVE-avantages-2026.jpg",
+          "alt": "WAVE XW17 Présentation"
+        },
+        {
+          "src": "images/WAVE-avantages2-2026.jpg",
+          "alt": "WAVE XW17 Segmentation"
+        },
+        {
+          "src": "images/WAVE-avantages3-2026.jpg",
+          "alt": "WAVE XW17 Scores"
+        }
       ]
     },
     {
@@ -220,16 +343,36 @@
       "published": false,
       "language": "FR",
       "caption": "Tout votre outillage à portée de main — et un Toolbag SAMEDIA offert ! 🎒\n\nDu 1er mars au 30 avril 2026, pour l'achat au choix de :\n• 1 Pack Maçon / Paysagiste\n• 1 Pack Surfaçage\n• 1 Pack Carreleur / Paysagiste\n\n→ 1 Toolbag SAMEDIA OFFERT\n\nRésistant, pratique, aux couleurs SAMEDIA : le compagnon idéal sur vos chantiers.\n\nContactez votre revendeur SAMEDIA ou demandez un devis à votre commercial.\n\n⚠️ Offre valable jusqu'au 30 avril 2026, dans la limite des stocks disponibles.",
-      "hashtags": ["#Toolbag","#OffreCommerciale","#SAMEDIA","#BTP","#PromoChantier","#OutilsDiamantés","#JFCGroup"],
+      "hashtags": [
+        "#Toolbag",
+        "#OffreCommerciale",
+        "#SAMEDIA",
+        "#BTP",
+        "#PromoChantier",
+        "#OutilsDiamantés",
+        "#JFCGroup"
+      ],
       "cta": "Demander un devis",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Conditions à vérifier", "label": "📄 Conditions"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Conditions à vérifier",
+          "label": "📄 Conditions"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/toolbag-RS-2026.jpg", "alt": "Toolbag Offert — Accroche générale"}
+        {
+          "src": "images/toolbag-RS-2026.jpg",
+          "alt": "Toolbag Offert — Accroche générale"
+        }
       ]
     },
     {
@@ -246,16 +389,36 @@
       "published": false,
       "language": "FR",
       "caption": "Surface parfaite. Outillage complet. Toolbag SAMEDIA offert. ✨\n\nLe Pack Surfaçage SAMEDIA regroupe tout ce qu'il faut pour les travaux de surfacement sur béton :\n\n🔴 1 Surfaceuse CGR 500\n🔴 5 disques SHOXX PL ZU5 Ø125\n\n… et en prime : 1 Toolbag SAMEDIA offert !\n\nAchetez votre pack, équipez votre chantier — et rangez votre outillage avec la qualité SAMEDIA.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
-      "hashtags": ["#PackSurfaçage","#SAMEDIA","#SHOXX","#Surfaceuse","#Toolbag","#Béton","#JFCGroup"],
+      "hashtags": [
+        "#PackSurfaçage",
+        "#SAMEDIA",
+        "#SHOXX",
+        "#Surfaceuse",
+        "#Toolbag",
+        "#Béton",
+        "#JFCGroup"
+      ],
       "cta": "Demander un devis",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Réf. produit à vérifier",
+          "label": "🔍 Réf."
+        },
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/Toolbag-RS2-2026.jpg", "alt": "Pack Surfaçage + Toolbag"}
+        {
+          "src": "images/Toolbag-RS2-2026.jpg",
+          "alt": "Pack Surfaçage + Toolbag"
+        }
       ]
     },
     {
@@ -272,16 +435,37 @@
       "published": false,
       "language": "FR",
       "caption": "Le pack du maçon. Le pack du paysagiste. Le pack des pros qui n'acceptent aucun compromis. 💪\n\nLe Pack Maçon / Paysagiste SAMEDIA réunit l'essentiel pour performer au quotidien :\n\n🔴 1 disque SHOXX WAVE WX17 Ø230 (champion du béton armé)\n🔴 2 disques TECHNIC DIAM FIRT BV10 Ø125\n🔴 1 plateau TECHNIC PLT10 Ø125\n\n… et bien sûr : 1 Toolbag SAMEDIA offert en prime !\n\nBéton, maçonnerie, ponçage, finition — tout y est pour prendre le bon départ sur chantier.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
-      "hashtags": ["#PackMaçon","#SAMEDIA","#SHOXX","#WAVE","#Toolbag","#Maçonnerie","#Paysagiste","#JFCGroup"],
+      "hashtags": [
+        "#PackMaçon",
+        "#SAMEDIA",
+        "#SHOXX",
+        "#WAVE",
+        "#Toolbag",
+        "#Maçonnerie",
+        "#Paysagiste",
+        "#JFCGroup"
+      ],
       "cta": "Demander un devis",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Réf. produit à vérifier",
+          "label": "🔍 Réf."
+        },
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/Toolbag-RS3-2026.jpg", "alt": "Pack Maçon Paysagiste + Toolbag"}
+        {
+          "src": "images/Toolbag-RS3-2026.jpg",
+          "alt": "Pack Maçon Paysagiste + Toolbag"
+        }
       ]
     },
     {
@@ -298,17 +482,41 @@
       "published": false,
       "language": "FR",
       "caption": "De la découpe à la finition — tout est dans le pack. 🎯\n\nLe Pack Carreleur / Paysagiste SAMEDIA, c'est une sélection complète pour les finitions haut de gamme :\n\n🔴 5 MASTER UF Ø125\n🔴 1 TECHNIC PLT10 Ø125\n🔴 1 MASTER PCW\n🔴 1 MASTER FINISH PRO (Grain 120 ou Grain 200)\n\n… et 1 Toolbag SAMEDIA offert !\n\nCarrelage, grès cérame, pierre naturelle — finissez chaque chantier avec la précision SAMEDIA.\n\nOffre valable du 1er mars au 30 avril 2026. ⏳",
-      "hashtags": ["#PackCarreleur","#SAMEDIA","#MASTER","#Toolbag","#Carrelage","#Finition","#BTP","#JFCGroup"],
+      "hashtags": [
+        "#PackCarreleur",
+        "#SAMEDIA",
+        "#MASTER",
+        "#Toolbag",
+        "#Carrelage",
+        "#Finition",
+        "#BTP",
+        "#JFCGroup"
+      ],
       "cta": "Demander un devis",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Réf. produit à vérifier", "label": "🔍 Réf."},
-        {"text": "Grain à préciser", "label": "Grain"},
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Réf. produit à vérifier",
+          "label": "🔍 Réf."
+        },
+        {
+          "text": "Grain à préciser",
+          "label": "Grain"
+        },
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/Toolbag-RS4-2026.jpg", "alt": "Pack Carreleur Paysagiste + Toolbag"}
+        {
+          "src": "images/Toolbag-RS4-2026.jpg",
+          "alt": "Pack Carreleur Paysagiste + Toolbag"
+        }
       ]
     },
     {
@@ -325,22 +533,60 @@
       "published": false,
       "language": "EN",
       "caption": "// PORTUGAL. TRAINING. PROXIMITY.\n\nIn February 2026, our SAMEDIA experts traveled to our new partner CHAGAS to train their sales teams on the full SAMEDIA range.\n\n→ SHOXX | MASTER | TECHNIC — full product knowledge\n→ Technical arguments & job site application advice\n→ Sales coaching & hands-on practice\n\nBecause PROXIMITY isn't a buzzword.\nIt's showing up. A full day on site. A team that leaves stronger.\n\nThank you CHAGAS for the warm welcome and commitment.",
-      "hashtags": ["#SAMEDIA","#Training","#DiamondTools","#Portugal","#Construction","#JFCDiamondTools","#Distributor"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#Training",
+        "#DiamondTools",
+        "#Portugal",
+        "#Construction",
+        "#JFCDiamondTools",
+        "#Distributor"
+      ],
       "cta": "LinkedIn Global (EN)",
       "ctaLabel": "Page LinkedIn",
       "qtags": [
-        {"text": "Caption à revoir", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Caption à revoir",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/CHAGASxSAMEDIA-Slide1.jpg", "alt": "COVER — PROXIMITY. IN ACTION."},
-        {"src": "images/CHAGASxSAMEDIA-Slide2.jpg", "alt": "CHAGAS. PORTUGAL. — Nouvelle implantation"},
-        {"src": "images/CHAGASxSAMEDIA-Slide3.jpg", "alt": "ONE DAY. THE FULL RANGE."},
-        {"src": "images/CHAGASxSAMEDIA-Slide4.jpg", "alt": "EXPERTISE IS SHARED."},
-        {"src": "images/CHAGASxSAMEDIA-Slide5.jpg", "alt": "THIS IS PARTNERSHIP."},
-        {"src": "images/CHAGASxSAMEDIA-Slide6.jpg", "alt": "PARTNER. TRAINER. BY YOUR SIDE."}
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide1.jpg",
+          "alt": "COVER — PROXIMITY. IN ACTION."
+        },
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide2.jpg",
+          "alt": "CHAGAS. PORTUGAL. — Nouvelle implantation"
+        },
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide3.jpg",
+          "alt": "ONE DAY. THE FULL RANGE."
+        },
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide4.jpg",
+          "alt": "EXPERTISE IS SHARED."
+        },
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide5.jpg",
+          "alt": "THIS IS PARTNERSHIP."
+        },
+        {
+          "src": "images/CHAGASxSAMEDIA-Slide6.jpg",
+          "alt": "PARTNER. TRAINER. BY YOUR SIDE."
+        }
       ]
     },
     {
@@ -357,20 +603,53 @@
       "published": false,
       "language": "EN",
       "caption": "// FROM TRAINING. TO STORE.\n\nIt started in the classroom. It's now on the shelf.\n\nOur SAMEDIA experts traveled across Portugal to train the CHAGAS teams — not just one location, but multiple branches. Same standard, same expertise, everywhere.\n\n→ Full-day training sessions at every CHAGAS site\n→ SHOXX | MASTER | TECHNIC — every tool, explained hands-on\n→ From demo kit to display rack, in one trip\n\nWhen we say proximity, we mean it.\nTraining your teams. Equipping your stores. Building a partnership that delivers from day one.\n\nThe journey continues.",
-      "hashtags": ["#SAMEDIA","#DiamondTools","#Training","#Portugal","#Distribution","#CHAGAS","#JFCDiamondTools","#Rollout"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#DiamondTools",
+        "#Training",
+        "#Portugal",
+        "#Distribution",
+        "#CHAGAS",
+        "#JFCDiamondTools",
+        "#Rollout"
+      ],
       "cta": "LinkedIn Global (EN)",
       "ctaLabel": "Page LinkedIn",
       "qtags": [
-        {"text": "Caption à revoir", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Caption à revoir",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/2CHAGASxSAMEDIA-Slide1.jpg", "alt": "COVER — FROM TRAINING. TO STORE."},
-        {"src": "images/2CHAGASxSAMEDIA-Slide2.jpg", "alt": "EVERY BRANCH. COVERED."},
-        {"src": "images/2CHAGASxSAMEDIA-Slide3.jpg", "alt": "EVERY TOOL. MASTERED."},
-        {"src": "images/2CHAGASxSAMEDIA-Slide4.jpg", "alt": "NOW ON THE SHELF."}
+        {
+          "src": "images/2CHAGASxSAMEDIA-Slide1.jpg",
+          "alt": "COVER — FROM TRAINING. TO STORE."
+        },
+        {
+          "src": "images/2CHAGASxSAMEDIA-Slide2.jpg",
+          "alt": "EVERY BRANCH. COVERED."
+        },
+        {
+          "src": "images/2CHAGASxSAMEDIA-Slide3.jpg",
+          "alt": "EVERY TOOL. MASTERED."
+        },
+        {
+          "src": "images/2CHAGASxSAMEDIA-Slide4.jpg",
+          "alt": "NOW ON THE SHELF."
+        }
       ]
     },
     {
@@ -387,19 +666,50 @@
       "published": false,
       "language": "FR",
       "caption": "La FSA 400 entre en chantier. Avec son disque. ⚡\n\nJusqu'au 30 avril 2026, la SCIE À SOL FSA 400 est disponible en lot avec un disque diamanté TECHNIC Ø400 inclus — en promotion.\n\nDeux configurations pour couvrir tous vos chantiers :\n\n⚫ Lot Asphalte/Enrobé — FSA 400 + TECHNIC TP-A Ø400\n   (réf. 925128/001) — Asphalte · Enrobé · Enrobé bitumeux\n\n⚫ Lot Béton/Matériaux — FSA 400 + TECHNIC DIAM FIRST BV10 Ø400\n   (réf. 925127/001) — Béton · Matériaux de construction\n\nUne machine robuste, un disque adapté à votre application — une offre taillée pour les pros du BTP.\n\nDans la limite des stocks disponibles.\n\n→ Renseignez-vous auprès de votre distributeur SAMEDIA ou contactez notre équipe commerciale.",
-      "hashtags": ["#SAMEDIA","#FSA400","#ScieASol","#OffreSpéciale","#BTP","#Asphalte","#Béton","#DiamondTools","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#FSA400",
+        "#ScieASol",
+        "#OffreSpéciale",
+        "#BTP",
+        "#Asphalte",
+        "#Béton",
+        "#DiamondTools",
+        "#JFCGroup"
+      ],
       "cta": "Contacter votre distributeur SAMEDIA",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir",      "label": "✏️ Texte"},
-        {"text": "Visuel OK",           "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier",     "label": "📅 Date"},
-        {"text": "Conditions à vérifier","label": "📄 Conditions"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "Conditions à vérifier",
+          "label": "📄 Conditions"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/FSA400-OP-slide1-2026.jpg", "alt": "Scie à Sol FSA 400 — Offre Spéciale Mars–Avril 2026"},
-        {"src": "images/FSA400-OP-slide2-2026.jpg", "alt": "FSA 400 — 2 lots : Asphalte/Enrobé et Béton/Matériaux"}
+        {
+          "src": "images/FSA400-OP-slide1-2026.jpg",
+          "alt": "Scie à Sol FSA 400 — Offre Spéciale Mars–Avril 2026"
+        },
+        {
+          "src": "images/FSA400-OP-slide2-2026.jpg",
+          "alt": "FSA 400 — 2 lots : Asphalte/Enrobé et Béton/Matériaux"
+        }
       ]
     },
     {
@@ -416,18 +726,47 @@
       "published": false,
       "language": "FR",
       "caption": "Trouver le bon calibre pour chaque situation — c'est SAMEDIA. 🔩\n\nDu 15 mars au 30 avril 2026, profitez de notre OFFRE SPÉCIALE SET PLOMBIER / ÉLECTRICIEN :\n\n🔴 12 FORETS MASTER CARRELAGE M14 :\n   → 5 forets Ø6 mm\n   → 5 forets Ø8 mm\n   → 2 forets Ø10 mm\n\n➕ 1 COUTEAU inclus\n➕ 1 MALLETTE DE RANGEMENT incluse\n\nLe kit complet pour percer le carrelage, le grès cérame et tous vos matériaux durs — avec la précision et la durabilité SAMEDIA.\n\n⚠️ Offre valable du 15 mars au 30 avril 2026, dans la limite des stocks disponibles.\n\nContactez votre distributeur SAMEDIA ou demandez un devis à votre commercial 👇",
-      "hashtags": ["#SAMEDIA","#SetCarrelage","#ForetCarrelage","#MASTERCarrelage","#OffreSpéciale","#BTP","#Carreleur","#Plombier","#Electricien","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#SetCarrelage",
+        "#ForetCarrelage",
+        "#MASTERCarrelage",
+        "#OffreSpéciale",
+        "#BTP",
+        "#Carreleur",
+        "#Plombier",
+        "#Electricien",
+        "#JFCGroup"
+      ],
       "cta": "Demander un devis",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Conditions à vérifier", "label": "📄 Conditions"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Conditions à vérifier",
+          "label": "📄 Conditions"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/OP-set-carrelage-slide1.jpg", "alt": "Set Plombier / Électricien — Présentation offre"},
-        {"src": "images/OP-set-carrelage-slide2.jpg", "alt": "Set Plombier / Électricien — Contexte chantier"}
+        {
+          "src": "images/OP-set-carrelage-slide1.jpg",
+          "alt": "Set Plombier / Électricien — Présentation offre"
+        },
+        {
+          "src": "images/OP-set-carrelage-slide2.jpg",
+          "alt": "Set Plombier / Électricien — Contexte chantier"
+        }
       ]
     },
     {
@@ -444,17 +783,41 @@
       "published": false,
       "language": "FR",
       "caption": "Dans la mêlée comme dans le béton, on ne fait pas dans la dentelle. 🏉\n\nSamedi 7 mars, le XV de France débarque à Murrayfield pour affronter l'Écosse.\n\nChez SAMEDIA, on connaît la découpe — et on sait qu'une bonne mêlée, c'est comme un bon disque diamanté : ça pousse, ça tient, et ça ne lâche rien. 💪\n\n🇫🇷 FRANCE vs ÉCOSSE 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n📅 Samedi 7 mars — Murrayfield Stadium\n📺 France 2\n\nVotre pronostic ? Dites-nous en commentaire ! 👇\n\nAllez les Bleus ! 🔵⚪🔴",
-      "hashtags": ["#SAMEDIA","#Rugby","#6Nations","#XVdeFrance","#FranceEcosse","#AllezLesBleus","#BTP","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#Rugby",
+        "#6Nations",
+        "#XVdeFrance",
+        "#FranceEcosse",
+        "#AllezLesBleus",
+        "#BTP",
+        "#JFCGroup"
+      ],
       "cta": "Votre pronostic en commentaire !",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Caption à revoir", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Caption à revoir",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/samedia-france-ecosse-6nations.jpg", "alt": "France vs Écosse — Tournoi 6 Nations 2026"}
+        {
+          "src": "images/samedia-france-ecosse-6nations.jpg",
+          "alt": "France vs Écosse — Tournoi 6 Nations 2026"
+        }
       ]
     },
     {
@@ -471,17 +834,42 @@
       "published": false,
       "language": "FR",
       "caption": "Dans le Crunch comme dans le béton — on ne fait pas dans la dentelle. 🏉\n\nSamedi 14 mars, le XV de France reçoit l'Angleterre au Stade de France pour LE choc de ce Tournoi des 6 Nations 2026. 🔥\n\nChez SAMEDIA, on connaît la valeur d'un impact bien calibré — que ce soit sur le terrain ou sur chantier. 💪\n\n🇫🇷 FRANCE vs ANGLETERRE 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n📅 Samedi 14 mars — Stade de France\n⏰ 21h10\n\nVotre pronostic ? Dites-nous en commentaire ! 👇\n\nAllez les Bleus ! 🔵⚪🔴",
-      "hashtags": ["#SAMEDIA","#Rugby","#6Nations","#XVdeFrance","#LeCrunch","#FranceAngleterre","#AllezLesBleus","#BTP","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#Rugby",
+        "#6Nations",
+        "#XVdeFrance",
+        "#LeCrunch",
+        "#FranceAngleterre",
+        "#AllezLesBleus",
+        "#BTP",
+        "#JFCGroup"
+      ],
       "cta": "Votre pronostic en commentaire !",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Caption à revoir", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Caption à revoir",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/6nations-france-angleterre-2026-V2.jpg", "alt": "France vs Angleterre — Le Crunch — Tournoi 6 Nations 2026"}
+        {
+          "src": "images/6nations-france-angleterre-2026-V2.jpg",
+          "alt": "France vs Angleterre — Le Crunch — Tournoi 6 Nations 2026"
+        }
       ]
     },
     {
@@ -498,19 +886,49 @@
       "published": false,
       "language": "FR",
       "caption": "Quelque chose se prépare chez SAMEDIA. ⚙️\n\nEn avril 2026, une nouvelle gamme fait son entrée dans notre catalogue — pensée pour ceux qui travaillent le métal au quotidien.\n\nCe qu'on peut vous dire :\n✔ Coupe nette. Fluide. Silencieuse.\n✔ Compatible meuleuses sur batterie\n✔ Confort d'utilisation repensé\n✔ Zéro compromis sur la durée de vie\n\nCe qu'on ne vous dit pas encore : tout le reste.\n\n📅 Rendez-vous en avril pour la révélation. 👀",
-      "hashtags": ["#SAMEDIA","#ComingSoon","#NouveauProduit","#Avril2026","#Métal","#BTP","#ProsDuMétal","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#ComingSoon",
+        "#NouveauProduit",
+        "#Avril2026",
+        "#Métal",
+        "#BTP",
+        "#ProsDuMétal",
+        "#JFCGroup"
+      ],
       "cta": "Découvrir la nouvelle gamme en avril",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Visuel V1 (fond noir)", "label": "🖼 V1 Noir"},
-        {"text": "Visuel V2 (fond jaune)", "label": "🖼 V2 Jaune"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Visuel V1 (fond noir)",
+          "label": "🖼 V1 Noir"
+        },
+        {
+          "text": "Visuel V2 (fond jaune)",
+          "label": "🖼 V2 Jaune"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/abrasifs2026-RS-teaser1-lancement.jpg", "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond noir"},
-        {"src": "images/abrasifs2026-RS-teaser2-lancement.jpg", "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond jaune"}
+        {
+          "src": "images/abrasifs2026-RS-teaser1-lancement.jpg",
+          "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond noir"
+        },
+        {
+          "src": "images/abrasifs2026-RS-teaser2-lancement.jpg",
+          "alt": "Teaser Gamme Abrasifs SAMEDIA — Version fond jaune"
+        }
       ]
     },
     {
@@ -523,25 +941,64 @@
       "type": "car",
       "pilier": "perf",
       "pilierBadge": "PERFORMANCE",
-      "proposedDate": "2026-04-03",
+      "proposedDate": "2026-04-07",
       "published": false,
       "language": "FR",
       "caption": "L'attente est terminée. Voici la nouvelle gamme abrasive SAMEDIA. ⚙️\n\n3 familles de produits conçues pour les pros du métal, de l'inox et de la chaudronnerie.\n\n\n🔴 MASTER FIBRE TKE — Acier / Inox\n\nCoupe nette, silencieuse, très faible émission d'étincelles. Compatible meuleuses sur batterie. Sans fer ni soufre : zéro contamination sur inox. 🔥\n\n\n🟡 MASTER FIBRE TKM — Métal Universel\n\nLe meilleur rapport qualité-prix pour la découpe métal. Polyvalent, rapide, rentable — de l'acier de construction à la tuyauterie industrielle. 💪\n\n\n⚫ MASTER SMT PL — Disques à Lamelles\n\nZirconium. Conception conique 10° pour un surfaçage ergonomique et sans effort. Sans fer ni soufre : idéal pour l'inox et l'acier allié. ✨\n\n\n🔗 Découvrez les fiches produits complètes, les applications détaillées et les packs disponibles sur samedia.com\n\n📞 Vous voulez tester la gamme ? Contactez votre commercial SAMEDIA dès maintenant 👇",
-      "hashtags": ["#SAMEDIA","#NouvelleGamme","#Abrasifs","#MASTERFibre","#TKE","#TKM","#SMTPL","#Métal","#Inox","#BTP","#JFCGroup"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#NouvelleGamme",
+        "#Abrasifs",
+        "#MASTERFibre",
+        "#TKE",
+        "#TKM",
+        "#SMTPL",
+        "#Métal",
+        "#Inox",
+        "#BTP",
+        "#JFCGroup"
+      ],
       "cta": "Contactez votre commercial SAMEDIA",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Texte à revoir", "label": "✏️ Texte"},
-        {"text": "Visuel TKE OK", "label": "🖼 TKE"},
-        {"text": "Visuel TKM OK", "label": "🖼 TKM"},
-        {"text": "Visuel SMT OK", "label": "🖼 SMT"},
-        {"text": "Date à modifier", "label": "📅 Date"},
-        {"text": "OK pour publication", "label": "✔ OK pub"}
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Visuel TKE OK",
+          "label": "🖼 TKE"
+        },
+        {
+          "text": "Visuel TKM OK",
+          "label": "🖼 TKM"
+        },
+        {
+          "text": "Visuel SMT OK",
+          "label": "🖼 SMT"
+        },
+        {
+          "text": "Date à modifier",
+          "label": "📅 Date"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
       ],
       "slides": [
-        {"src": "images/abrasifs2026-RS-reveal1-master-TKE.jpg", "alt": "Reveal MASTER FIBRE TKE — Acier / Inox"},
-        {"src": "images/abrasifs2026-RS-reveal1-master-TKM.jpg", "alt": "Reveal MASTER FIBRE TKM — Métal Universel"},
-        {"src": "images/abrasifs2026-RS-reveal1-master-SMT.jpg", "alt": "Reveal MASTER SMT PL — Disques à Lamelles"}
+        {
+          "src": "images/abrasifs2026-RS-reveal1-master-TKE.jpg",
+          "alt": "Reveal MASTER FIBRE TKE — Acier / Inox"
+        },
+        {
+          "src": "images/abrasifs2026-RS-reveal1-master-TKM.jpg",
+          "alt": "Reveal MASTER FIBRE TKM — Métal Universel"
+        },
+        {
+          "src": "images/abrasifs2026-RS-reveal1-master-SMT.jpg",
+          "alt": "Reveal MASTER SMT PL — Disques à Lamelles"
+        }
       ]
     },
     {
@@ -558,16 +1015,36 @@
       "published": true,
       "language": "FR",
       "caption": "La performance a changé de forme. 🔍\n\nVous savez que SAMEDIA repousse toujours les limites — mais cette fois, on vous donne un indice.\n\nUne nouveauté 2026 est en route. Vous la découvrirez en avant-première… saurez-vous deviner ?\n\n📅 Rendez-vous Stand P24\nSalon NORDBAT 2026\nDu 11 au 13 février — Lille Grand Palais 🏠",
-      "hashtags": ["#SAMEDIA","#NORDBAT2026","#Salon","#BTP","#Nouveauté2026","#JFCGroup","#LilleGrandPalais"],
+      "hashtags": [
+        "#SAMEDIA",
+        "#NORDBAT2026",
+        "#Salon",
+        "#BTP",
+        "#Nouveauté2026",
+        "#JFCGroup",
+        "#LilleGrandPalais"
+      ],
       "cta": "Stand P24 — Salon NORDBAT",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Caption à mettre à jour", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Archive validée", "label": "✔ Archive OK"}
+        {
+          "text": "Caption à mettre à jour",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Archive validée",
+          "label": "✔ Archive OK"
+        }
       ],
       "slides": [
-        {"src": "images/Teaser-NORDBAT-2026-V1.jpg", "alt": "Teaser NORDBAT 2026 — Nouveauté SAMEDIA"}
+        {
+          "src": "images/Teaser-NORDBAT-2026-V1.jpg",
+          "alt": "Teaser NORDBAT 2026 — Nouveauté SAMEDIA"
+        }
       ]
     },
     {
@@ -584,20 +1061,163 @@
       "published": true,
       "language": "FR",
       "caption": "La réponse était là. 🌊\n\nSHOXX WAVE XW17 — La performance a changé de forme.\n\nBéton. Béton armé. Maçonnerie universelle.\nUn seul disque. Toutes les applications.\n\nMaximum d'agressivité. Minimum de vibrations.\nOriginal SHOXX Technology by SAMEDIA.\n\nRetrouvez-le en exclusivité sur notre Stand P24\nSalon NORDBAT 2026 — 11 au 13 février — Lille 🏠",
-      "hashtags": ["#SHOXX","#WaveXW17","#SAMEDIA","#NORDBAT2026","#Salon","#Nouveauté","#BTP","#DisqueDiamant","#JFCGroup"],
+      "hashtags": [
+        "#SHOXX",
+        "#WaveXW17",
+        "#SAMEDIA",
+        "#NORDBAT2026",
+        "#Salon",
+        "#Nouveauté",
+        "#BTP",
+        "#DisqueDiamant",
+        "#JFCGroup"
+      ],
       "cta": "Découvrir le SHOXX WAVE XW17",
       "ctaLabel": "CTA",
       "qtags": [
-        {"text": "Caption à mettre à jour", "label": "✏️ Caption"},
-        {"text": "Visuel OK", "label": "🖼 Visuel OK"},
-        {"text": "Archive validée", "label": "✔ Archive OK"}
+        {
+          "text": "Caption à mettre à jour",
+          "label": "✏️ Caption"
+        },
+        {
+          "text": "Visuel OK",
+          "label": "🖼 Visuel OK"
+        },
+        {
+          "text": "Archive validée",
+          "label": "✔ Archive OK"
+        }
       ],
       "slides": [
-        {"src": "images/Reveal-NORDBAT-2026-V1.jpg", "alt": "Reveal SHOXX WAVE XW17 — NORDBAT 2026"}
+        {
+          "src": "images/Reveal-NORDBAT-2026-V1.jpg",
+          "alt": "Reveal SHOXX WAVE XW17 — NORDBAT 2026"
+        }
+      ]
+    },
+    {
+      "id": "csw-destockage-1",
+      "campaign": "camp-csw-destockage",
+      "opMapping": "OP Déstockage MASTER CSW",
+      "num": 18,
+      "title": "Déstockage MASTER CSW — −40% sur les prix",
+      "subtitle": "Grès cérame • Carrelage • Pierre naturelle • Offre jusqu'au 31 mai 2026",
+      "type": "car",
+      "pilier": "perf",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-04-01",
+      "published": false,
+      "language": "FR",
+      "caption": "🔴 DÉSTOCKAGE MASSIF — MASTER CSW à prix fous ! 💥\n\n−40% sur notre disque diamanté de référence pour matériaux durs. Grès cérame, carrelage, faïence, céramique, granit, pierre naturelle : une précision absolue là où les autres s'essoufflent.\n\n💰 Prix déstockage :\n→ Ø250 mm : 54€ HT (au lieu de 90€) — 96 pièces en stock\n→ Ø350 mm : 89€ HT (au lieu de 148€) — 291 pièces en stock\n\n✅ Flasque de renfort pour une coupe droite, fine et sans éclats.\n✅ Idéal pour découpeuses sur table, coupe sous arrosage.\n\n⚠️ Offre valable jusqu'au 31 mai 2026, dans la limite des stocks disponibles.\nPremiers arrivés = premiers servis ! 🏃\n\nContactez votre revendeur SAMEDIA dès aujourd'hui 👇",
+      "hashtags": [
+        "#Destockage",
+        "#MASTERCSW",
+        "#SAMEDIA",
+        "#GrèsCérame",
+        "#Carrelage",
+        "#PierreNaturelle",
+        "#Promo",
+        "#JFCGroup"
+      ],
+      "cta": "Contacter votre revendeur SAMEDIA",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Prix PA à vérifier",
+          "label": "💰 Prix PA"
+        },
+        {
+          "text": "Stocks à confirmer",
+          "label": "📦 Stocks"
+        },
+        {
+          "text": "Date limite à vérifier",
+          "label": "📅 Date limite"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
+      ],
+      "slides": [
+        {
+          "src": "images/destockage-masterCSW-P1-2026.jpg",
+          "alt": "Déstockage MASTER CSW — Visuel 1"
+        },
+        {
+          "src": "images/destockage-masterCSW-P2-2026.jpg",
+          "alt": "Déstockage MASTER CSW — Détail prix"
+        }
+      ]
+    },
+    {
+      "id": "diamant-destockage-1",
+      "campaign": "camp-diamant-destockage",
+      "opMapping": "OP Déstockage Diamant",
+      "num": 19,
+      "title": "Déstockage Diamant — Performance Maxi, Prix Mini",
+      "subtitle": "TP BV 150 DL • S-Béton • SHOXX X13 • Jusqu'à épuisement des stocks",
+      "type": "car",
+      "pilier": "perf",
+      "pilierBadge": "PERFORMANCE",
+      "proposedDate": "2026-04-02",
+      "published": false,
+      "language": "FR",
+      "caption": "🟡 DÉSTOCKAGE MASSIF — Performance Maxi, Prix Mini ! 💥\n\nC'est à ne pas manquer : des disques diamantés haute performance à prix cassés, jusqu'à épuisement des stocks.\n\n➡️ TP BV 150 DL — 52€ HT (PA déstockage : 39€)\nPolyvalence maximale, segments crénelés, coupe rapide. Béton & béton armé. 58 pièces disponibles.\n\n➡️ S-BÉTON — 25€ HT (PA déstockage : 19€)\nFinition laser, coupe optimale dans les matériaux de construction. 9 pièces disponibles.\n\n➡️ SHOXX X13 — 92€ HT (PA déstockage : 69€)\nSegments 13 mm. 2× plus rapide, 2× plus longue durée qu'un disque haut de gamme classique. 6 pièces disponibles.\n\n⚠️ Stocks très limités — dès épuisement, l'offre disparaît.\n\n📞 Contactez votre commercial SAMEDIA maintenant 👇",
+      "hashtags": [
+        "#Destockage",
+        "#DisqueDiamant",
+        "#SAMEDIA",
+        "#SHOXX",
+        "#Béton",
+        "#BTP",
+        "#PrixCassés",
+        "#JFCGroup"
+      ],
+      "cta": "Contacter votre commercial SAMEDIA",
+      "ctaLabel": "CTA",
+      "qtags": [
+        {
+          "text": "Texte à revoir",
+          "label": "✏️ Texte"
+        },
+        {
+          "text": "Prix PA à vérifier",
+          "label": "💰 Prix PA"
+        },
+        {
+          "text": "Stocks à confirmer",
+          "label": "📦 Stocks"
+        },
+        {
+          "text": "Slide 3 SHOXX X13 à valider",
+          "label": "🖼 Slide 3"
+        },
+        {
+          "text": "OK pour publication",
+          "label": "✔ OK pub"
+        }
+      ],
+      "slides": [
+        {
+          "src": "images/destockage-diamant-P1-2026.jpg",
+          "alt": "Déstockage Diamant — TP BV 150 DL"
+        },
+        {
+          "src": "images/destockage-diamant-P2-2026.jpg",
+          "alt": "Déstockage Diamant — S-Béton & SHOXX X13"
+        },
+        {
+          "src": "images/destockage-diamant-P3-2026.jpg",
+          "alt": "Déstockage Diamant — Récapitulatif offre"
+        }
       ]
     }
   ],
-
   "marketingPlan": {
     "lastUpdated": "2026-02-25",
     "note": "months = tableau de mois actifs (1=Jan … 12=Déc). Modifier ici pour mettre à jour le Gantt.",
@@ -608,9 +1228,29 @@
         "color": "#FFE500",
         "textColor": "#000",
         "ops": [
-          {"name": "Lancement gamme abrasive",   "months": [2,3,4]},
-          {"name": "Lancement STIHL TSA 350",    "months": [2,3,4,5]},
-          {"name": "Lancement scie circulaire",  "months": [8]}
+          {
+            "name": "Lancement gamme abrasive",
+            "months": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "name": "Lancement STIHL TSA 350",
+            "months": [
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "name": "Lancement scie circulaire",
+            "months": [
+              8
+            ]
+          }
         ]
       },
       {
@@ -619,18 +1259,119 @@
         "color": "#60a5fa",
         "textColor": "#fff",
         "ops": [
-          {"name": "Fil rouge marque SMD",              "months": [1,2,3,4,5,6]},
-          {"name": "Fil rouge Shoxx (17 mm)",           "months": [1,2,3,4,5,6,7]},
-          {"name": "Promo FSA 400",                     "months": [2,3,4]},
-          {"name": "OP Toolbag",                        "months": [2,3,4]},
-          {"name": "Communication Master Silence",      "months": [7,8,9,10,11,12]},
-          {"name": "OP Resin Pad",                      "months": [8,9,10,11,12]},
-          {"name": "Journées techniques régionales",    "months": [4,5,6]},
-          {"name": "OP des Pros",                       "months": [1,2,7,8]},
-          {"name": "OP Stihl",                          "months": [1,2,10,11]},
-          {"name": "OP Immanquables chantier",          "months": [3,4,5,6,7,8]},
-          {"name": "OP Destockage",                     "months": [7,8]},
-          {"name": "OP entretien scies sur table",      "months": [1,2,11,12]}
+          {
+            "name": "Fil rouge marque SMD",
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "name": "Fil rouge Shoxx (17 mm)",
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "name": "Promo FSA 400",
+            "months": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "name": "OP Toolbag",
+            "months": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "name": "Communication Master Silence",
+            "months": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "name": "OP Resin Pad",
+            "months": [
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "name": "Journées techniques régionales",
+            "months": [
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "name": "OP des Pros",
+            "months": [
+              1,
+              2,
+              7,
+              8
+            ]
+          },
+          {
+            "name": "OP Stihl",
+            "months": [
+              1,
+              2,
+              10,
+              11
+            ]
+          },
+          {
+            "name": "OP Immanquables chantier",
+            "months": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "name": "OP Destockage",
+            "months": [
+              7,
+              8
+            ]
+          },
+          {
+            "name": "OP entretien scies sur table",
+            "months": [
+              1,
+              2,
+              11,
+              12
+            ]
+          }
         ]
       },
       {
@@ -639,10 +1380,34 @@
         "color": "#a78bfa",
         "textColor": "#fff",
         "ops": [
-          {"name": "Coupe du Monde de Foot", "months": [5,6,7]},
-          {"name": "Octobre Rose",           "months": [10,11]},
-          {"name": "Croquez la Pomme",       "months": [11,12]},
-          {"name": "Hiverdiam's",            "months": [12]}
+          {
+            "name": "Coupe du Monde de Foot",
+            "months": [
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "name": "Octobre Rose",
+            "months": [
+              10,
+              11
+            ]
+          },
+          {
+            "name": "Croquez la Pomme",
+            "months": [
+              11,
+              12
+            ]
+          },
+          {
+            "name": "Hiverdiam's",
+            "months": [
+              12
+            ]
+          }
         ]
       },
       {
@@ -651,13 +1416,49 @@
         "color": "#34d399",
         "textColor": "#000",
         "ops": [
-          {"name": "Kiloutou — Lille",          "months": [1]},
-          {"name": "Tout Faire — Montpellier",  "months": [1,2]},
-          {"name": "Cofaq — Lyon",              "months": [1]},
-          {"name": "Samse — Chambery",          "months": [2]},
-          {"name": "Nordbat — Lille",           "months": [1]},
-          {"name": "DomPro — Tours",            "months": [4]},
-          {"name": "Ciffreo Bona — Nice",       "months": [5]}
+          {
+            "name": "Kiloutou — Lille",
+            "months": [
+              1
+            ]
+          },
+          {
+            "name": "Tout Faire — Montpellier",
+            "months": [
+              1,
+              2
+            ]
+          },
+          {
+            "name": "Cofaq — Lyon",
+            "months": [
+              1
+            ]
+          },
+          {
+            "name": "Samse — Chambery",
+            "months": [
+              2
+            ]
+          },
+          {
+            "name": "Nordbat — Lille",
+            "months": [
+              1
+            ]
+          },
+          {
+            "name": "DomPro — Tours",
+            "months": [
+              4
+            ]
+          },
+          {
+            "name": "Ciffreo Bona — Nice",
+            "months": [
+              5
+            ]
+          }
         ]
       }
     ]
